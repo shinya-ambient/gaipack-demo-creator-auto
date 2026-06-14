@@ -6,7 +6,7 @@ description: お客様向けデモアプリを Claude Code のマルチエージ
 # gaipack-demo-creator — オーケストレーター（Claude Edition）
 
 お客様向けデモアプリを、Claude Code のサブエージェントを使い分けて自動生成する。
-`run.sh`（CLI版）と同じパイプラインを、Claude Code 上のネイティブ skill として実行する。
+企業調査→仕様書→デザイン→実装→QA評価のパイプラインを、Claude Code 上のネイティブ skill として実行する。
 
 ## このskillの最重要原則: 生成とレビューの分離
 
