@@ -1,0 +1,12 @@
+# Claude Code local (machine-specific) settings
+.claude/settings.local.json
+
+# Harness output (generated per project)
+/demo/
+demo.*/
+
+# Node
+node_modules/
+dist/
+*.log
+.DS_Store
